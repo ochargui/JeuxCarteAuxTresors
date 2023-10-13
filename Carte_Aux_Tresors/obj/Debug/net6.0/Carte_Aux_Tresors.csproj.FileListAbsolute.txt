@@ -1,0 +1,14 @@
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\bin\Debug\net6.0\Carte_Aux_Tresors.exe
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\bin\Debug\net6.0\Carte_Aux_Tresors.deps.json
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\bin\Debug\net6.0\Carte_Aux_Tresors.runtimeconfig.json
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\bin\Debug\net6.0\Carte_Aux_Tresors.dll
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\bin\Debug\net6.0\Carte_Aux_Tresors.pdb
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\obj\Debug\net6.0\Carte_Aux_Tresors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\obj\Debug\net6.0\Carte_Aux_Tresors.AssemblyInfoInputs.cache
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\obj\Debug\net6.0\Carte_Aux_Tresors.AssemblyInfo.cs
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\obj\Debug\net6.0\Carte_Aux_Tresors.csproj.CoreCompileInputs.cache
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\obj\Debug\net6.0\Carte_Aux_Tresors.dll
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\obj\Debug\net6.0\refint\Carte_Aux_Tresors.dll
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\obj\Debug\net6.0\Carte_Aux_Tresors.pdb
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\obj\Debug\net6.0\Carte_Aux_Tresors.genruntimeconfig.cache
+C:\Users\Oumaima\source\repos\Carte_Aux_Tresors\Carte_Aux_Tresors\obj\Debug\net6.0\ref\Carte_Aux_Tresors.dll
